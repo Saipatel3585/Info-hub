@@ -1,0 +1,13 @@
+{
+  "name": "infohub-essentials",
+  "private": true,
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "dev": "cd client && npm run dev"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "serverless-http": "^3.2.0"
+  }
+}
