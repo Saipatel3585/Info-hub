@@ -1,5 +1,5 @@
 {
-  "name": "infohub-essentials",
+  "name": "info-hub",
   "private": true,
   "scripts": {
     "build": "cd client && npm install && npm run build",
@@ -11,3 +11,4 @@
     "serverless-http": "^3.2.0"
   }
 }
+
